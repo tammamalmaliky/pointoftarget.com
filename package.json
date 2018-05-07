@@ -1,0 +1,22 @@
+{
+  "name": "point-of-target",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "jit-grunt": "^0.10.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-dev-server": "^0.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
